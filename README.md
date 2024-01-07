@@ -1,4 +1,4 @@
-# Ramdom-Forest
+# Random-Forest
 
 This code snippet is designed to perform stroke diagnosis prediction using a Random Forest Classifier. It is implemented in Python and uses popular libraries such as Pandas for data manipulation and scikit-learn for machine learning tasks. The script follows these steps:
 
